@@ -344,7 +344,11 @@ client.on("messageCreate", async (message) => {
         { name: "Heure", value: `${formatDate(g.winner.wonAt)}` },
       );
 
-    await winnersChannel.send({ embeds: [publicWinnerEmbed] });
+    try {
+      await winnersChannel.send({ embeds: [publicWinnerEmbed] });
+    } catch (error) {
+      console.error("[WINNERS_CHANNEL] Impossible d'annoncer le gagnant:", error);
+    }
   }
 });
 
