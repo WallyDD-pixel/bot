@@ -1,0 +1,96 @@
+{
+  "activeGiveaway": null,
+  "history": [
+    {
+      "code": "CODE187",
+      "video": "https://www.youtube.com/live/5JSH5uvNRFM",
+      "reward": "5",
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:25:59.998Z",
+      "expiresAt": "2026-05-11T09:25:59.998Z",
+      "winner": null,
+      "closedAt": "2026-05-09T09:29:26.999Z",
+      "closeReason": "closed_by_admin"
+    },
+    {
+      "code": "CODE KEYSIIE",
+      "video": "https://www.youtube.com/live/5JSH5uvNRFM",
+      "reward": "10 € de Robux",
+      "maxAttempts": 3,
+      "attemptsByUser": {},
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:29:59.843Z",
+      "expiresAt": "2026-05-11T09:29:59.843Z",
+      "winner": null,
+      "closedAt": "2026-05-09T09:32:48.317Z",
+      "closeReason": "closed_by_admin"
+    },
+    {
+      "code": "2031",
+      "video": "https://www.youtube.com/live/5JSH5uvNRFM",
+      "reward": "5 € de Robux",
+      "maxAttempts": 3,
+      "attemptsByUser": {},
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:33:16.132Z",
+      "expiresAt": "2026-05-11T09:33:16.132Z",
+      "winner": null,
+      "closedAt": "2026-05-09T09:36:15.974Z",
+      "closeReason": "closed_by_admin"
+    },
+    {
+      "code": "KJHD",
+      "video": "https://www.youtube.com/live/5JSH5uvNRFM",
+      "reward": "2000 € de Robux",
+      "maxAttempts": 3,
+      "attemptsByUser": {},
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:36:40.487Z",
+      "expiresAt": "2026-05-11T09:36:40.487Z",
+      "winner": null,
+      "closedAt": "2026-05-09T09:39:51.098Z",
+      "closeReason": "closed_by_admin"
+    },
+    {
+      "code": "10",
+      "video": "https://youtu.be/BVacexGPK9o?si=xHKq-hHjOZR_d9jE",
+      "reward": "123 € de Robux",
+      "maxAttempts": 3,
+      "attemptsByUser": {
+        "424325650376163339": 3
+      },
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:40:56.704Z",
+      "expiresAt": "2026-05-11T09:40:56.704Z",
+      "winner": null,
+      "closedAt": "2026-05-09T09:42:59.399Z",
+      "closeReason": "closed_by_admin"
+    },
+    {
+      "code": "10",
+      "video": "https://youtu.be/BVacexGPK9o?si=xHKq-hHjOZR_d9jE",
+      "reward": "10 € de Robux",
+      "maxAttempts": 3,
+      "attemptsByUser": {
+        "424325650376163339": 1
+      },
+      "claimChannelId": "1502600195265925141",
+      "winnersChannelId": "1502600335792013446",
+      "createdAt": "2026-05-09T09:43:30.445Z",
+      "expiresAt": "2026-05-11T09:43:30.445Z",
+      "winner": {
+        "userId": "424325650376163339",
+        "tag": "yumyu_",
+        "messageId": "1502607026034053261",
+        "wonAt": "2026-05-09T09:43:51.997Z"
+      },
+      "closedAt": "2026-05-09T09:43:51.997Z",
+      "closeReason": "winner_found"
+    }
+  ]
+}
